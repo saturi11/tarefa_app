@@ -54,9 +54,11 @@ Antes de iniciar o projeto, certifique-se de ter os seguintes itens instalados:
    cd tarefa_app
 
 2. **Instale as dependências:**
+   
      flutter pub get
    
-3. **Execute o aplicativo em um dispositivo ou emulador:**
+4. **Execute o aplicativo em um dispositivo ou emulador:**
+   
      flutter run
    
 ### Estrutura do Projeto
