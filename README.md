@@ -64,7 +64,10 @@ Antes de iniciar o projeto, certifique-se de ter os seguintes itens instalados:
 ### Estrutura do Projeto
 
 lib/models/task.dart: Define o modelo de dados da tarefa.
+
 lib/providers/task_provider.dart: Gerencia o estado das tarefas e interage com o Firestore.
+
 lib/screens/task_list_screen.dart: Tela principal que exibe a lista de tarefas.
+
 lib/main.dart: Ponto de entrada do aplicativo, configura o Provider e a tela inicial.
 
